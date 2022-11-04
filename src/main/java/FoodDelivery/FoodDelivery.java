@@ -12,7 +12,7 @@ public class FoodDelivery extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(FoodDelivery.class.getResource("sample.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 1315, 855);
-        stage.setTitle("Food Delivery");
+        stage.setTitle("Food Delivery -hello");
         stage.setScene(scene);
         stage.show();
     }
