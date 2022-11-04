@@ -1,0 +1,32 @@
+.primary-background{
+    -fx-background-color: #F67F00;
+}
+
+.secondary-background{
+    -fx-background-color: #FBF9F6;
+}
+
+.white-background{
+    -fx-background-color: #FFFFFF;
+}
+
+.transparent{
+    -fx-background-color: rgba(0, 0, 0, 0);
+}
+
+
+.right-bar-background{
+    -fx-background-color: #fff;
+    -fx-border-style: hidden solid hidden hidden;
+}
+
+
+.top-bar-background{
+    -fx-background-color: #fff;
+    -fx-border-style: hidden hidden solid hidden;
+}
+
+.white-card{
+    -fx-background-color: #fff;
+    -fx-background-radius: 20;
+}
