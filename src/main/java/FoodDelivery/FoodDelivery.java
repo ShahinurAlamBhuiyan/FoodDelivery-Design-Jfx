@@ -15,6 +15,7 @@ public class FoodDelivery extends Application {
         stage.setTitle("Food Delivery -hello");
         stage.setScene(scene);
         stage.show();
+        // it main file text.
     }
 
     public static void main(String[] args) {
